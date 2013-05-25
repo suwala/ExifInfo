@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="info">このプログラムはjpeg画像に含まれるExif情報を取得し表示するプログラムである。\nボタンを押す事によりギャラリーが起動する。\nまたtoOrientation押下する事により回転補正のテストする事が出来る。</string>
+	<string name="notFile">ファイルがありません。</string>
+	<string name="ioeerror">IOエラー</string>
+	<string name="toOrientation">toOrientation</string>
+</resources>
